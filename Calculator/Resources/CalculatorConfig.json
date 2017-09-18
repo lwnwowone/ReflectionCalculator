@@ -1,0 +1,6 @@
+{
+	"+":"Addition",
+	"-":"Subtraction",
+	"*":"Multiplication",
+	"/":"Division"
+}

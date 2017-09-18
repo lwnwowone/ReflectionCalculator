@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{15348842-9447-40E8-8485-533675D1E636}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17F14BE7-4881-4429-9CFE-8012BA04B7FB" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Support/ConfigHelper.cs">
+    <Files>
+      <File FileName="Calculator/CalculateLogic/CalculFactory.cs" Line="40" Column="71" />
+      <File FileName="Calculator/ViewController.cs" Line="42" Column="52" />
+      <File FileName="Calculator/Support/DllHelper.cs" Line="26" Column="32" />
+      <File FileName="Calculation/Power.cs" Line="8" Column="48" />
+      <File FileName="Calculation/Subtraction.cs" Line="13" Column="1" />
+      <File FileName="Calculator/Support/ConfigHelper.cs" Line="34" Column="6" />
+      <File FileName="Calculator/Support/LocalEnvironment.cs" Line="12" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alanc/Projects/Calculator/Calculator/CalculateLogic/Factory/CalculFactory.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
